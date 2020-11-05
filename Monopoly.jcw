@@ -1,0 +1,21 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "Monopoly"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\Monopoly.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\classes\\Monopoly.htm" #[EndFile]
+#[BeginFile]SOURCE := "\\MonopolyJoueur.java" #[EndFile]
+#[BeginFile]SOURCE := "\\MonopolyPlateau.java" #[EndFile]
+#[BeginFile]SOURCE := "\\MonopolySatistiques.java" #[EndFile]
+#[BeginFile]SOURCE := "\\MonopolyTable.java" #[EndFile]
+#[BeginFile]SOURCE := "\\MonopolyTerrain.java" #[EndFile]
+#[BeginFile]SOURCE := "\\MsgBox.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Monopoly.java" #[EndFile]
+
+! Start Breakpoint Structure
+
